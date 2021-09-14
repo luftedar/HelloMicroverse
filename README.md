@@ -6,10 +6,28 @@
 
 ![screenshot](./app_screenshot.png)
 
+Additional description about the project and its features.
+
 ## Built With
 
 - HTML & CSS
 - GitHub Workflows
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+git clone https://github.com/luftedar/HelloMicroverse.git
+
+Change into the working directory.
+
+cd HelloMicroverse
+
+Now, You are ready to use.
+
+## Prerequisites
+
+- Code Editor
 
 ## Authors
 
